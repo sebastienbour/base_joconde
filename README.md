@@ -7,6 +7,7 @@ Ce projet a été réalisé dans le cadre d’un travail scolaire.
 - PHP
 - HTML
 - CSS
+- MySQL
 
 ## 🎯 Objectifs du projet
 
